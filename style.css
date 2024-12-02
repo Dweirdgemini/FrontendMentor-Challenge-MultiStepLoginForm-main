@@ -24,13 +24,7 @@
   font-family: inherit;
 }
 
-body {
-  height: 100vh;
-  background-color: var(--magnolia);
-  font-family: "Ubuntu", sans-serif;
-  display: grid;
-  place-items: center;
-}
+
 
 label,
 input {
